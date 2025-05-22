@@ -1,0 +1,5 @@
+function feature3_1() {
+    code3_1
+    use dep
+    return
+}
