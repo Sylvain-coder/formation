@@ -17,15 +17,3 @@ function feature1_3(){
     code1_3
     return
 }
-
-
-
-
-
-
-function feature1_4(){
-    code1_4
-    return
-}
-
-
