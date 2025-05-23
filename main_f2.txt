@@ -1,0 +1,4 @@
+const CONTEXT
+import script2
+
+obj = feature2_1
